@@ -8,6 +8,6 @@ https://github.com/Pedrojosecorrea/world-s-capitals-map/blob/main/world_capitals
 
 A sample of the result:
 
-<img src="./images/map_capital.gif" alt="map" width="900" height="700" />
+<img src="./images/map_capital.gif" alt="map" width="900" height="500" />
 
 ##### Fig.1  world map.
